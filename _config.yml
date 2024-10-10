@@ -32,6 +32,7 @@ external:
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/julius-nyule-58a76a33/"}
   - {title: Github, icon: github, url: "https://github.com/gtsofa"}                    # see http://fontawesome.com/icons
   - {title: Email, icon: envelope, url: "mailto:jlsnyule22@gmail.com"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@juliusnyule"}
 
 comments:
   disqus: false                      # change to 'true' to allow comments
