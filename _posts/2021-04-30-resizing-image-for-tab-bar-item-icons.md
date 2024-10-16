@@ -20,13 +20,13 @@ For resizing the image, follow the steps below.
 2. Add your image to the 1x, 2x, and 3x boxes in *Assests.xcassets* folder.
 3. Click on the image in each box and right-click which should reveal the options and select the option as highlighted on the screenshot below:
 
-![screenshot](https://github.com/gtsofa/gtsofa.github.io/blob/main/assets/img/images-resize-tab-bar-icons/section-1.png)
+![Open with Editor Explorer](/assets/img/images-resize-tab-bar-icons/section-1.png "Open with Editor Explorer")
 
 4. When you click `Open with External Editor` a preview will be shown to you.
 
 5. Click on Tools` then Adjust Size` as shown below.
 
-![screenshot-1](https://github.com/gtsofa/gtsofa.github.io/blob/main/assets/img/images-resize-tab-bar-icons/adjust-size.png)
+![Adjust Size..](/assets/img/images-resize-tab-bar-icons/adjust-size.png "Adjust Size")
 
 6. Adjust the size of your image based on your requirements while keeping in mind Apple’s human interface guidelines. Save your changes and close the window. The image in Xcode should be auto-updated. Repeat the steps for each individual icon in the 1x, 2x, and 3x sections.
 
