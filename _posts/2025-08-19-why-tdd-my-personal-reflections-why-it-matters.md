@@ -5,10 +5,11 @@ comments: true
 tags: TDD, TestDrivenDevelopment, iOSDevelopment, SwiftLang, CleanCode, SnapshotTesting, UnitTesting.
 excerpt_separator: <!--more-->
 ---
-> "The fastest code is the one you don’t have to debug twice."
 
 Over the years, I’ve learned that TDD isn’t just a testing technique but a thinking technique as well. It’s how I break down complexity, build confidence in my code, and keep my development process fast and sustainable.
 <!--more-->
+
+> "The fastest code is the one you don�~@~Yt have to debug twice."
 
 ![tdd](/assets/img/images-tdd/tdd.png "test-driven-development")
 
