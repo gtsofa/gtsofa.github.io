@@ -2,7 +2,7 @@
 layout: post
 title: "Why CI/CD Pipelines Matter for Developers and Businesses"
 comments: true
-tags: CI, CD, SoftwareDevelopment, DevOps, Agile, ContinuousIntegration, ContinuousDelivery, iOSDevelopment.
+tags: [CI, CD, SoftwareDevelopment, DevOps, Agile, ContinuousIntegration, ContinuousDelivery, iOSDevelopment]
 excerpt_separator: <!--more-->
 ---
 
