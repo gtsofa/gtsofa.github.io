@@ -76,6 +76,6 @@ Do you prefer manual approvals, or are you aiming for full Continuous Deployment
 
 I’d love to hear your experiences—please share in the comments!
 
-#CICD #DevOps #SoftwareEngineering #iOSDevelopment #ContinuousIntegration #ContinuousDelivery #ContinuousDeployment
-
+# References:
+To learn more about such practices, visit the [iOS Lead Essentials](https://www.essentialdeveloper.com/) website.
 
