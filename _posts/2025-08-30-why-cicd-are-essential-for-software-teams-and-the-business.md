@@ -72,20 +72,3 @@ Do you prefer manual approvals, or are you aiming for full Continuous Deployment
 I’d love to hear your experiences—please share in the comments!
 
 
-For resizing the image, follow the steps below.
-
-- Create a name for your image for the particular icon in *Assets.xcassets* folder.
-- Add your image to the 1x, 2x, and 3x boxes in *Assests.xcassets* folder.
-- Click on the image in each box and right-click which should reveal the options and select the option as highlighted on the screenshot below:
-
-![Open with Editor Explorer](/assets/img/images-resize-tab-bar-icons/section-1.png "Open with Editor Explorer")
-
-- When you click `Open with External Editor` a preview will be shown to you.
-
-- Click on Tools` then Adjust Size` as shown below.
-
-![Adjust Size..](/assets/img/images-resize-tab-bar-icons/adjust-size.png "Adjust Size")
-
-- Adjust the size of your image based on your requirements while keeping in mind Apple�~@~Ys human interface guidelines. Save your changes and close the window. The image in Xcode should be auto-updated. Repeat the steps for each individual icon in the 1x, 2x, and 3x sections.
-
-Thanks for reading, I hope it helps you. Happy hacking :-)
