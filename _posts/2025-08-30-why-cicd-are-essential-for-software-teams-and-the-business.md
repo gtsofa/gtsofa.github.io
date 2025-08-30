@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why CI/CD Pipelines Are Essential for Software Teams and the Business"
+title: "Why CI-CD Pipelines Are Essential for Software Teams and the Business"
 date: 2025-08-30
 comments: true
 tags: [CICD, SoftwareDevelopment, DevOps, Agile, ContinuousIntegration, ContinuousDelivery, iOSDevelopment]
