@@ -12,6 +12,8 @@ One of the most common struggles developers (new comers or even experienced) fac
 
 Should I use Alamofire, Moya, URLSession, Realm, Core Data… or something else?
 
+![3rd-party framework](/assets/img/images-frameworks/third-party-frameworks.png "Third Party Frameworks")
+
 What if I make the wrong decision and get stuck later?
 
 Which Cocoapods should I bring in from day one?
