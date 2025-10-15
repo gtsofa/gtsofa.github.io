@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 One of the most common struggles developers (new comers or even experienced) face is choosing the “right” tools and frameworks at the start of a project.
-!<--more-->
+<!--more-->
 
 Should I use Alamofire, Moya, URLSession, Realm, Core Data… or something else?
 
