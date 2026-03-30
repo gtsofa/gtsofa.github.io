@@ -15,8 +15,10 @@ comments: false
       <li>Architected a modular codebase applying software best practices such as OOP, SOLID principles and software design patterns, decomposing a monolithic app into independently testable feature modules, reducing regression bugs and enabling parallel developmennt.</li>
       <li>Developed a robust CI/CD pipeline using GitHub Actions to automate the seamless release of the application to the App Store.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, SwiftUI, TDD, Requirements analysis, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
-	<li>PS: An MVP client-specific enterprise deployment – not publicly distributed</ul>
     </ul>
+    <div class="project-buttons">
+	<h5>PS: An MVP client-specific enterprise deployment �~@~S not publicly distributed</h5>
+    </div>
   </div>
 
 <!-- Card 1 -->
