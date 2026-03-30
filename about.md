@@ -27,6 +27,6 @@ App Store Connect. Monitoring Application insights using Firebase Crashlytics, O
 Over the years, I have been building and refining my craft. Lately, I have been learning a lot from people, and this blog is about me trying to share that  knowledge back to the community. As they say, if you want to learn about something as much, teach it to others and see the magic :-) 
 
 ### Resume
-Here is my updated [resume](https://drive.google.com/file/d/1USbtJRpxe31LE5NDzyMcRdBJereLILlB/view?usp=sharing) for your reference.
+Here is my updated [resume](https://drive.google.com/file/d/1kWv7oZXzd7IWjaTmLw1UXSFxralqXZkH/view?usp=sharing) for your reference.
 
   
