@@ -4,24 +4,28 @@ title: About
 comments: false
 ---
 
-My name is Julius Nyule, I am from Nairobi, Kenya and I am an iOS Engineer. My background is in Computer Science and Mathematics. I specifically majored in Computer Science, which was offered as a sub-discipline in the CS department.
+Experienced iOS Engineer with 8 years in software development (5+ years on Apple platform). I am passionate about clean code, CI/CD, automated testing, and architecture. Proficient in test driven development, unit/integration/snapshot testing, with a keen eye for detail and a passion for creating seamless user experiences. Proven track record optimizing performance, reducing runtime bottlenecks, and collaborating with cross-functional teams to deliver high-impact consumer and fintech applications.
 
-I have spent a good chunk of my professional life working in the software engineering space: as a software developer (iOS) in the Apple platform. I have also served as a web developer.
+Key skills and Technologies
 
-Over the years, I've worked with Ruby, Python, Dart, and Swift.
+•iOS Development: Objective-C, Swift, UIKit, SwiftUI, Combine, Core Data, Core Animation, Codable, FileSystem, URLSession, URLProtocol, Xcode. RESTful APIs, Firebase SDKs.
 
-My most recent work as a developer was working for a startup firm as an iOS software engineer (short-term contract). I was part of a team that worked on the iOS applications (I specifically worked on maintaining and adding new features to the Ringtones for iPhone, Breathing Exercises, and Make Ringtones iOS apps). Some of the technologies that we used are: Swift, UIKit, Core Data, URLSession, Core Animation.
+• Architecture: Deep knowledge of modern engineering and architectural patterns for distributed systems including: Clean
+Architecture, Event-Driven Architecture (EDA), CQRS (Command Query Responsibility Segregation), Cache-Aside,
+Component-Based Architecture, Presentation Patterns (MVC, MVVM, MVP).
 
-I've previously worked at [Etinx](https://www.etinx.com/) as an iOS Developer. I build an iOS app from scratch after which another iOS developer joined the team a few months later. In this capacity, I developed an online investment platform designed to make investments in local and global financial markets more accessible, secure and affordable. I also onboarded new team members as well as offered mentorship to junior team members.
+• Testing Approaches & Tools: Extensive experience utilizing Test-Driven Development (TDD), Behavior-Driven Development
+(BDD), Unit/Integration/Snapshot Testing approaches for the test-build-deploy cycle. Tools regularly used include XCTest.
 
-I've also worked at [Andela](https://www.andela.com/) as a software development apprenticeship (as a team member that worked on various internal projects for Andela).
+• DevOps & CI/CD: Designing and managing automated build, test, and deployment pipelines using GitHub Actions , TestFlight,
+App Store Connect. Monitoring Application insights using Firebase Crashlytics, OSLog, Logger.
 
-Prior to shifting into the industry, I worked in the BPO and saaS spaces, as a technical customer support at [Sama](https://www.sama.com/) and [xFusion](https://www.xfusion.io/).
+- Other skills: Scalability, Performance, Automation, git, Code Reviews, Sharing knowledge.
 
-I am currently pursuing a part-time online course in iOS Development at 
-the [The Essential Developer Academy by Caio and Mike](https://www.essentialdeveloper.com/), (2022 - present).
+### Giving back to the community
+Over the years, I have been building and refining my craft. Lately, I have been learning a lot from people, and this blog is about me trying to share that  knowledge back to the community. As they say, if you want to learn about something as much, teach it to others and see the magic :-) 
 
-I'm naturally a very curious person, and I particularly enjoy learning new things every day. I feel energized when working with small, highly motivated teams that care deeply about delivering business results.
+### Resume
+Here is my updated [resume](https://a-url.com) for your reference.
 
-For more about my professional experience, please check out my [LinkedIn profile](https://www.linkedin.com/in/julius-nyule-58a76a33/). 
-
+  
