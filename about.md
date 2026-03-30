@@ -4,9 +4,10 @@ title: About
 comments: false
 ---
 
-Experienced iOS Engineer with 8 years in software development (5+ years on Apple platform). I am passionate about clean code, CI/CD, automated testing, and architecture. Proficient in test driven development, unit/integration/snapshot testing, with a keen eye for detail and a passion for creating seamless user experiences. Proven track record optimizing performance, reducing runtime bottlenecks, and collaborating with cross-functional teams to deliver high-impact consumer and fintech applications.
+### Who am I?
+Experienced iOS Engineer, based in Kenya(EAT) with 8 years in software development (5+ years on Apple platform). I am passionate about clean code, CI/CD, automated testing, and architecture. Proficient in test driven development, unit/integration/snapshot testing, with a keen eye for detail and a passion for creating seamless user experiences. Proven track record optimizing performance, reducing runtime bottlenecks, and collaborating with cross-functional teams to deliver high-impact consumer and fintech applications.
 
-Key skills and Technologies
+### Key skills and Technologies
 
 •iOS Development: Objective-C, Swift, UIKit, SwiftUI, Combine, Core Data, Core Animation, Codable, FileSystem, URLSession, URLProtocol, Xcode. RESTful APIs, Firebase SDKs.
 
@@ -26,6 +27,6 @@ App Store Connect. Monitoring Application insights using Firebase Crashlytics, O
 Over the years, I have been building and refining my craft. Lately, I have been learning a lot from people, and this blog is about me trying to share that  knowledge back to the community. As they say, if you want to learn about something as much, teach it to others and see the magic :-) 
 
 ### Resume
-Here is my updated [resume](https://a-url.com) for your reference.
+Here is my updated [resume](https://drive.google.com/file/d/1USbtJRpxe31LE5NDzyMcRdBJereLILlB/view?usp=sharing) for your reference.
 
   
