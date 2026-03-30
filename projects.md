@@ -16,12 +16,10 @@ comments: false
       <li>Developed a robust CI/CD pipeline using GitHub Actions to automate the seamless release of the application to the App Store.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, SwiftUI, TDD, Requirements analysis, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
     </ul>
-    <div class="project-buttons">
-	<h5>PS: An MVP client-specific enterprise deployment �~@~S not publicly distributed</h5>
-    </div>
+	<p>PS: An MVP client-specific enterprise deployment �~@~S not publicly distribut </p>
   </div>
 
-<!-- Card 1 -->
+<!-- Card 2 -->
   <div class="project-card">
     <h3> Ndovu: Save & Invest | <span class="project-type">Entix</span></h3>
     <p class="project-date">April 2021 - Sept 2022</p>
@@ -37,7 +35,7 @@ financial data, integrating a third-party brokerage API, and establishing a CI/C
   </div>
 
 
-  <!-- Card 1 -->
+  <!-- Card 3 -->
   <div class="project-card">
     <h3>Essential Feed Case Study | <span class="project-type">Personal project</span></h3>
     <p class="project-date">April 2022 - Present</p>
