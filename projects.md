@@ -7,7 +7,24 @@ comments: false
 
 <div class="projects-container">
 
- <!-- Card 1 -->
+<!-- Card 1 -->
+  <div class="project-card">
+    <h3> Search & Book Fligts: Building the future of travel in Africa | <span class="project-type">Contract</span></h3>
+    <p class="project-date">Dec 2025 - March 2026</p>
+    <ul>
+      <li>Successfully launched an MVP flight search and booking application to market within a rapid 90-day timeframe by validating UI
+design and dev decisions and gathering insightful feedback from clients by creating simple but realistic app prototypes ensuring
+fast market entry and competitive advantage.</li>
+      <li>Automated the delivery of features by developing a CI/CD pipeline using GitHub Actions to ensure a seamless release of runnig versions of applications to the TestFlight and App Store.</li>
+      <li><strong>Technologies & Tools used:</strong> Xcode, Swift, TDD, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
+    </ul>
+    <div class="project-buttons">
+      <a href="https://coming-soon.com">Not publicly distributed</a>
+    </div>
+  </div>
+
+
+ <!-- Card 2 -->
   <div class="project-card">
     <h3> Polygraf | <span class="project-type">Periodick.io</span></h3>
     <p class="project-date">March 2025 - July 2025</p>
@@ -16,15 +33,30 @@ comments: false
       <li>Developed a robust CI/CD pipeline using GitHub Actions to automate the seamless release of the application to the App Store.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, SwiftUI, TDD, Requirements analysis, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
     </ul>
-	<p>PS: An MVP client-specific enterprise deployment �~@~S not publicly distribut </p>
+	<p>PS: An MVP client-specific enterprise deployment �~@~S not publicly distrited </p>
   </div>
 
-<!-- Card 2 -->
+<!-- Card 3 -->
+  <div class="project-card">
+    <h3> Earth Hero: Climate Change | <span class="project-type">Volunteer</span></h3>
+    <p class="project-date">Nov 2024 - Present</p>
+    <ul>
+      <li>Contributed to performance, stability, and process improvements for the Earth Hero iOS  app used by environmentally conscious consumers.</li>
+      <li>Collaborated with cross-functional team members (mobile, backend, product, design) to deliver high-impact features such as localising static content features to align with user and sustainability goals.</li>
+      <li><strong>Technologies & Tools used:</strong> Xcode, Swift, Firebase, Refactoring, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
+    </ul>
+    <div class="project-buttons">
+      <a href="https://apps.apple.com/us/app/earth-hero-climate-change/id1458057746">Apple Store</a>
+    </div>
+  </div>
+
+
+<!-- Card 4 -->
   <div class="project-card">
     <h3> Ndovu: Save & Invest | <span class="project-type">Entix</span></h3>
     <p class="project-date">April 2021 - Sept 2022</p>
     <ul>
-      <li>Architected and shipped a micro-investment iOS app from 0 to App Store launch, implementing end-to-end encryption for
+      <li>Architected and shipped a micro-investment iOS app (Ndovu iOS app)  from idea stage to App Store launch, implementing end-to-end encryption for
 financial data, integrating a third-party brokerage API, and establishing a CI/CD pipeline with GitHub Actions and TestFlight foriterative releases.</li>
       <li>Ensured an offline user experience for critical flows in the app.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, UIKit, Core Data, TDD, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
@@ -35,7 +67,7 @@ financial data, integrating a third-party brokerage API, and establishing a CI/C
   </div>
 
 
-  <!-- Card 3 -->
+  <!-- Card 5 -->
   <div class="project-card">
     <h3>Essential Feed Case Study | <span class="project-type">Personal project</span></h3>
     <p class="project-date">April 2022 - Present</p>
@@ -49,7 +81,7 @@ financial data, integrating a third-party brokerage API, and establishing a CI/C
     </div>
   </div>
 
-  <!-- Card 2 -->
+  <!-- Card 6 -->
   <div class="project-card">
     <h3>CryptoCurrency | <span class="project-type">Practice project</span></h3>
     <p class="project-date">June 2025 - Present</p>
