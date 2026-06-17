@@ -9,7 +9,7 @@ comments: false
 
 <!-- Card 1 -->
   <div class="project-card">
-    <h3> Search & Book Fligts: Building the future of travel in Africa | <span class="project-type">Contract</span></h3>
+    <h3> Search & Book Fligts: Building the future of travel in Africa | <span class="project-type">Adalto Africa </span></h3>
     <p class="project-date">Dec 2025 - March 2026</p>
     <ul>
       <li>Successfully launched an MVP flight search and booking application to market within a rapid 90-day timeframe by validating UI
@@ -19,7 +19,7 @@ fast market entry and competitive advantage.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, TDD, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
     </ul>
     <div class="project-buttons">
-      <a href="https://coming-soon.com">Not publicly distributed</a>
+      <a href="https://coming-soon.com">An MVP client-specific enterprise deployment app. Not publicly distributed</a>
     </div>
   </div>
 
@@ -34,11 +34,14 @@ fast market entry and competitive advantage.</li>
       <li><strong>Technologies & Tools used:</strong> Xcode, Swift, SwiftUI, TDD, Requirements analysis, Clean Architecture, BDD, DDD, Modular Design, SOLID principles</li>
     </ul>
 	<p>PS: An MVP client-specific enterprise deployment �~@~S not publicly distrited </p>
+	<div class="project-buttons">
+      <a href="https://coming-soon.com">An MVP client-specific enterprice deployment. Not publicly distributed</a>
+    </div>
   </div>
 
 <!-- Card 3 -->
   <div class="project-card">
-    <h3> Earth Hero: Climate Change | <span class="project-type">Volunteer</span></h3>
+    <h3> Earth Hero: Climate Change | <span class="project-type">Earth Hero</span></h3>
     <p class="project-date">Nov 2024 - Present</p>
     <ul>
       <li>Contributed to performance, stability, and process improvements for the Earth Hero iOS  app used by environmentally conscious consumers.</li>
